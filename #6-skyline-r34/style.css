@@ -1,0 +1,85 @@
+@font-face {
+    font-family: B52;
+    src: url('fonts/B52.ttf');
+}
+
+@font-face {
+    font-family: Practice;
+    src: url('fonts/Practice-font.ttf');
+}
+
+@font-face {
+    font-family: NexaDemo;
+    src: url('fonts/NexaDemo-Bold.ttf');
+}
+
+.bg {
+    display: flex;
+    position: absolute;
+    top: -1%;
+    left:-1%;
+    width: 100%;
+    height: 100%;
+}
+
+.palka {
+    display: flex;
+    position: absolute;
+}
+
+.home {
+    display: flex;
+    position: absolute;
+}
+
+.skyline {
+    display: flex;
+    position: absolute;
+}
+
+.sky1 {
+    display: flex;
+    position: absolute;
+    left: 0%;
+}
+
+.sky2 {
+    display: flex;
+    position: absolute;
+    left: 0%;
+}
+
+.sky3 {
+    display: flex;
+    position: absolute;
+    left: 0%;
+}
+
+.skyline-txt {
+    display: flex;
+    position: absolute;
+    font-family: Practice;
+    font-size: 30px;
+    right: 14.4%;
+    top: 10%;
+}
+
+.description {
+    display: flex;
+    position: absolute;
+    font-family: B52;
+    font-size: 22px;
+    right: 14%;
+    top: 19%;
+    width: 600px;
+    height: 400px;
+    font-weight: 200;
+}
+
+.home-txt {
+    display: flex;
+    position: absolute;
+    font-family: NexaDemo; 
+    font-size: 24px;
+    left: 5%;
+}
