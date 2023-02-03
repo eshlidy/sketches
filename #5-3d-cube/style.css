@@ -1,0 +1,182 @@
+.bgg {
+    display: flex;
+    position: fixed;
+    top: -3%;
+    width: 100%;
+    height: 100%;
+}
+
+.last-text > .logo {
+    left: 5%;
+    color: #363636;
+    right: 44%;
+    display: flex;
+    position: fixed;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.last-text > .home {
+    top: -1%;
+    right: 44%;
+    display: flex;
+    position: fixed;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.last-text > .design {
+    top: -1%;
+    right: 36%;
+    display: flex;
+    position: fixed;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.last-text > .brading {
+    top: -1%;
+    right: 28%;
+    display: flex;
+    position: fixed;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.last-text > .develop {
+    top: -1%;
+    right: 16%;
+    display: flex;
+    position: fixed;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.last-text > .about {
+    top: -1%;
+    right: 8%;
+    display: flex;
+    position: fixed;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.text {
+    display: flex;
+    position: fixed;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.text > .txt1 {
+    display: flex;
+    position: fixed;
+    left: 29%;
+    bottom: 56%;
+}
+
+.text > .txt2 {
+    display: flex;
+    position: fixed;
+    left: 10%;
+    bottom: 49%;
+}
+
+.text > .creative {
+    display: flex;
+    position: fixed;
+    left: 10%;
+    bottom: 60%;
+}
+
+.text > .second-text {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    position: fixed;
+    font-size: 12px;
+    font-weight: 200;
+    width: 637px;
+    height: 64px;
+    left: 10%;
+    bottom: 46%;
+}
+
+.text2 > .pink-btn {
+    display: flex;
+    position: absolute;
+    border-radius: 20px;
+    width: 176px;
+    height: 60px;
+    left: 10%;
+    bottom: 33%;
+}
+
+.text2 > .tutorial {
+    display: flex;
+    position: absolute;
+    border-radius: 20px;
+    width: 176px;
+    height: 60px;
+    left: 25%;
+    bottom: 33%;
+}
+
+.start-img {
+    left: 10%;
+    bottom: 33%;
+    border-radius: 20px;
+    display: flex;
+    position: absolute;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+    width: 176px;
+    height: 60px;
+}
+
+.start {
+    opacity: 0;
+    border-radius: 20px;
+    display: flex;
+    position: absolute;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+    width: 176px;
+    height: 60px;
+}
+
+.play-tutor {
+    background-color: #fff;
+    display: flex;
+    position: absolute;
+    left: 22%;
+    bottom: 33%;
+}
+
+.tutor {
+    opacity: 1;
+    border-color: #fff;
+    border-radius: 20px;
+    display: flex;
+    position: absolute;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+    width: 176px;
+    height: 60px;
+}
+
+.cube3d {
+    display: flex;
+    position: absolute;
+    right: 2%;
+    bottom: -4%;
+}
