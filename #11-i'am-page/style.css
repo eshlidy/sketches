@@ -1,0 +1,304 @@
+html {
+    background-image: url(img/bg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.mainblock {
+    display: flex;
+    position: absolute;
+    left: 330px;
+    bottom: 300px;
+    border-top-left-radius: 120px;
+    border-bottom-right-radius: 120px;
+    background: -webkit-linear-gradient(113deg, #a6bcfa,#ffffff);
+    /* Chrome 10-25, Safari 5.1-6 */                          
+    background: linear-gradient(113deg, #a6bcfa,#ffffff);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                             
+    backdrop-filter: blur(30px);
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+    background-color: black;
+    width: 900px;
+    height: 400px;
+}
+
+.fblock {
+    top: 80px;
+    left: 470px;
+    display: block;
+    position: relative;
+    background-color: #ffffff;
+    width: 924px;
+    height: 805px;
+}
+
+.psdblock {
+    z-index: 1;
+    display: inline-block;
+    position: relative;
+    background-color: #a6bcfa;
+    bottom: 1100px;
+    left: 520px;
+    border-radius: 20px;
+    width: 180px;
+    height: 100px;
+}
+
+.aeblock {
+    z-index: 1;
+    display: inline-block;
+    position: relative;
+    background-color: #a6bcfa;
+    bottom: 1100px;
+    margin-left: 10px;
+    left: 520px;
+    border-radius: 20px;
+    width: 180px;
+    height: 100px;
+}
+
+.ilublock {
+    z-index: 1;
+    display: inline-block;
+    position: relative;
+    background-color: #a6bcfa;
+    bottom: 1100px;
+    left: 520px;
+    margin-left: 10px;
+    border-radius: 20px;
+    width: 180px;
+    height: 100px;
+}
+
+.figmablock {
+    font-size: 26px;
+    z-index: 1;
+    display: inline-block;
+    position: relative;
+    background-color: #a6bcfa;
+    bottom: 1100px;
+    left: 520px;
+    margin-left: 10px;
+    border-radius: 20px;
+    width: 180px;
+    height: 100px;
+}
+
+.aetxt {
+    z-index: 1;
+    display: flex;
+    position: absolute;
+    text-align: center;
+    font-size: 26px;
+    left: 740px;
+    bottom: 110px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+.ilutxt {
+    z-index: 1;
+    display: flex;
+    position: absolute;
+    text-align: center;
+    font-size: 26px;
+    left: 950px;
+    bottom: 110px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+.figmatxt {
+    z-index: 1;
+    display: flex;
+    position: absolute;
+    text-align: center;
+    font-size: 26px;
+    left: 1160px;
+    bottom: 110px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+.psdtxt {
+    z-index: 1;
+    display: flex;
+    position: absolute;
+    text-align: center;
+    font-size: 26px;
+    left: 555px;
+    bottom: 110px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+
+.psdlogo {
+    z-index: 2;
+    display: inline-block;
+    position: relative;
+    bottom: 1080px;
+    left: 580px;
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.aelogo {
+    z-index: 2;
+    display: inline-block;
+    position: relative;
+    bottom: 1080px;
+    left: 710px;
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.ilulogo {
+    z-index: 2;
+    display: inline-block;
+    position: relative;
+    bottom: 1080px;
+    left: 840px;
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.figmalogo {
+    z-index: 2;
+    display: inline-block;
+    position: relative;
+    bottom: 1080px;
+    left: 970px;
+    width: 60px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.sblock {
+    top: -725px;
+    left: 170px;
+    display: inline-block;
+    position: relative;
+    background-color: #a6bcfa;
+    width: 300px;
+    height: 805px;
+}
+
+.ftxt {
+    display: inline-block;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    bottom: 1380px;
+    left: 760px;
+}
+
+.bakko {
+    display: flex;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    color: #2157F2;
+    font-size: 48px;
+    bottom: 596px;
+    left: 850px;
+}
+
+.circle {
+    display: flex;
+    position: absolute;
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+    z-index: 2;
+    background-color: black;
+    bottom: 350px;
+    left: 360px;
+}
+
+.avatar {
+    display: flex;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    z-index: 3;
+    bottom: 350px;
+    left: 360px;
+}
+
+.stxt {
+    display: flex;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    bottom: 460px;
+    left: 770px;
+}
+
+.logo {
+    display: flex;
+    position: absolute;
+    bottom: 800px;
+    left: 200px;
+    width: 60px;
+    height: 60px;
+}
+
+.panel {
+    display: flex;
+    border: none;
+    position: absolute;
+    bottom: 770px;
+    left: 860px;
+    width: 500px;
+    height: 60px;
+    padding: 10px;
+}
+
+.home {
+    border: none;
+    margin-right: 10px;
+    width: 100px;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.projects {
+    border: none;
+    margin-right: 10px;
+    width: 100px;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.about {
+    border: none;
+    margin-right: 10px;
+    width: 100px;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.content {
+    border: none;
+    margin-right: 10px;
+    width: 100px;
+    height: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.theme {
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
