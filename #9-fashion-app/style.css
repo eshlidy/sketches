@@ -1,0 +1,255 @@
+.bg {
+    display: flex;
+    position: absolute;
+    width: 1935px;
+    height: 980px;
+    background-color: #06283D;
+    left: -1%;
+    top: -1%;
+}
+
+.main-img {
+    display: flex;
+    position: absolute;
+    right: 10%;
+    bottom: 13%;
+}
+
+.left {
+    display: flex;
+    position: absolute;
+    right: 15%;
+    bottom: 5%;
+}
+
+.right {
+    display: flex;
+    position: absolute;
+    right: 11%;
+    bottom: 5%;
+}
+
+.l {
+    opacity: 0;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    position: absolute;
+    right: 15%;
+    bottom: 5%;
+}
+
+.r {
+    opacity: 0;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    position: absolute;
+    right: 11%;
+    bottom: 5%;
+}
+
+.login {
+    top: 4%;
+    right: 10%;
+    display: flex;
+    position: absolute;
+}
+
+.txt-login > .log-text {
+    display: flex;
+    position: absolute;
+    top: 3%;
+    right: 5%;
+    color: #DFF6FF;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.wish {
+    display: flex;
+    position: absolute;
+    top: 4%;
+    right: 17%;
+
+}
+
+.bag {
+    display: flex;
+    position: absolute;
+    top: 4%;
+    right: 22%;
+}
+
+.bag-bt {
+    opacity: 0;
+    display: flex;
+    position: absolute;
+    top: 4%;
+    height: 48px;
+    width: 48px;
+    border-radius: 100px ;
+    right: 22%;
+    justify-content: center;
+    text-align: center;
+}
+
+.wish-bt {
+    opacity: 0;
+    display: flex;
+    position: absolute;
+    top: 4%;
+    height: 48px;
+    width: 48px;
+    border-radius: 100px ;
+    right: 17%;
+    justify-content: center;
+    text-align: center;
+}
+
+.login-bt {
+    opacity: 0;
+    display: flex;
+    position: absolute;
+    top: 4%;
+    height: 48px;
+    width: 48px;
+    border-radius: 100px ;
+    right: 10%;
+    justify-content: center;
+    text-align: center;
+}
+
+.home {
+    color: #DFF6FF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    right: 57%;
+    top: 3%;
+    display: flex;
+    position: absolute;
+}
+
+.shop {
+    color: #DFF6FF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    right: 50%;
+    top: 3%;
+    display: flex;
+    position: absolute;
+}
+
+.collection {
+    color: #DFF6FF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    right: 40%;
+    top: 3%;
+    display: flex;
+    position: absolute;
+}
+
+.about-us {
+    color: #DFF6FF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    right: 30%;
+    top: 3%;
+    display: flex;
+    position: absolute;
+}
+
+.logo-txt {
+    color: #DFF6FF;
+    font-weight: 400;
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+    left: 6%;
+    top: -2%;
+    display: flex;
+    position: absolute;
+}
+
+.fashion {
+    color: #DFF6FF;
+    font-weight: 700;
+    font-size: 32px;
+    top: 30%;
+    left: 6%;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    position: absolute;
+}
+
+.up {
+    color: #47B5FF;
+    font-weight: 700;
+    font-size: 32px;
+    top: 30%;
+    left: 21%;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    position: absolute;
+}
+
+.your {
+    color: #47B5FF;
+    font-weight: 700;
+    font-size: 32px;
+    top: 37%;
+    left: 6%;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    position: absolute;
+}
+
+.look {
+    color: #DFF6FF;
+    font-weight: 700;
+    font-size: 32px;
+    top: 37%;
+    left: 15%;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    position: absolute;
+}
+
+.desc {
+    display: flex;
+    position: absolute;
+    width: 402px;
+    height: 72px;
+    color: #777777;
+    top: 50%;
+    left: 6%;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.shop-now-btn {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    color: #DFF6FF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    width: 180px;
+    height: 60px;
+    background-color: #1363DF;
+    border-radius: 15px;
+    border: none;
+    top: 70%;
+    left: 6%;
+}
