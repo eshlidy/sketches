@@ -1,0 +1,127 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  form{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+  }
+  
+  
+  
+  
+  .logintxt {
+      text-align: center;
+      font-family: 'Poppins', sans-serif;
+  }
+  
+  .donebtn {
+      width: 150px;
+      height: 60px;
+  
+  
+      font-size: 24px;
+      font-family: 'Poppins', sans-serif;
+      border: 0px;
+      border-radius: 10px;
+      background: #2f92f5;
+      box-shadow: 0px 5px 7px 2px rgba(0, 0, 0, 0.5);
+  }
+  
+  .loginp {
+      display: block;
+      width: 390px;
+      height: 350px;
+      background: #4da1f7;
+      border-radius: 5%;
+      box-shadow: 0px 5px 10px 5px rgba(0, 0, 0, 0.5);
+  }
+  
+  .login {
+      display: flex;
+      font-family: 'Poppins', sans-serif;
+      font-size: 26px;
+  }
+  
+  .pass {
+      display: flex;
+      font-family: 'Poppins', sans-serif;
+      font-size: 26px;
+  }
+  
+  .repass {
+      display: flex;
+      font-family: 'Poppins', sans-serif;
+      font-size: 26px;
+  }
+  
+  .gender {
+      display: flex;
+      font-family: 'Poppins', sans-serif;
+      font-size: 26px;
+  }
+  
+  .male {
+      display: flex;
+      font-family: 'Poppins', sans-serif;
+      font-size: 26px;
+  }
+  
+  .female {
+      display: flex;
+      font-family: 'Poppins', sans-serif;
+      font-size: 26px;
+  }
+  
+  .inplogin {
+      display: flex;
+      text-align: center;
+      box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.5);
+      border: 0px;
+      border-radius: 10px;
+      width: 250px;
+      height: 30px;
+  }
+  
+  .inppass {
+      display: flex;
+      text-align: center;
+      box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.5);
+      border: 0px;
+      border-radius: 10px;
+      width: 205px;
+      height: 30px;
+  }
+  
+  .inprepass {
+      display: flex;
+      text-align: center;
+      box-shadow: 0px 3px 3px 1px rgba(0, 0, 0, 0.5);
+      border: 0px;
+      border-radius: 10px;
+      width: 170px;
+      height: 30px;
+  }
+  
+  .inpmale {
+      display: flex;
+      text-align: center;
+      border: 0px;
+      border-radius: 10px;
+      width: 20px;
+      height: 20px;
+  }
+  
+  .inpfemale {
+      display: flex;
+      text-align: center;
+      border: 0px;
+      border-radius: 10px;
+      width: 20px;
+      height: 20px;
+  }
