@@ -1,0 +1,218 @@
+html {
+    background-image: url(img/bg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.block1 {
+    display: inline-block;
+    position: relative;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    opacity: 80%;
+    left: 760px;
+    bottom: -660px;
+    width: 300px;
+    height: 300px;
+    background-color: #CDAEBA;
+}
+
+.block2 {
+    display: inline-block;
+    position: relative;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    opacity: 80%;
+    left: 780px;
+    bottom: -660px;
+    width: 300px;
+    height: 300px;
+    background-color: #CDAEBA;
+}
+
+.block3 {
+    display: inline-block;
+    position: relative;
+    left: 800px;
+    bottom: -660px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    opacity: 80%;
+    width: 300px;
+    height: 300px;
+    background-color: #CDAEBA;
+}
+
+.block1-maintxt {  
+    display: inline-block;
+    position: relative;
+    top: 450px;
+    right: 120px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+}
+
+.block1-sectxt {
+    display: inline-block;
+    position: relative;
+    top: 560px;
+    right: 320px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}
+
+.block2-maintxt {  
+    display: inline-block;
+    position: relative;
+    top: 450px;
+    right: 200px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+}
+
+.block2-sectxt {
+    display: inline-block;
+    position: relative;
+    top: 590px;
+    right: 380px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}
+
+.block3-maintxt {  
+    display: inline-block;
+    position: relative;
+    top: 160px;
+    right: -1430px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+}
+
+.block3-sectxt {
+    display: inline-block;
+    position: relative;
+    top: 300px;
+    right: -1180px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}
+
+.airbg {
+    border: none;
+    display: flex;
+    position: absolute;
+    top: 20px;
+    left: 130px;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background-color: #ffff;
+}
+
+.airlogo {
+    display: flex;
+    position: absolute;
+    top: 35px;
+    left: 140px;
+    width: 60px;
+    height: 60px;
+}
+
+.mainhtmtext {
+    text-shadow: 2px 2px 3px #000;
+    display: inline-block;
+    position: relative;
+    top: -200px;
+    left: -380px;
+    font-size: 65px;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+    color: #ffff;
+}
+
+.sechtmtext {
+    text-shadow: 2px 2px 3px #000;
+    display: inline-block;
+    position: relative;
+    top: -30px;
+    left: -860px;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    color: #ffff;
+}
+
+.booknow {
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    right: 1320px;
+    width: 200px;
+    height: 60px;
+    border-radius: 34px;
+    border: none;
+    background-color: #EB5757;
+    color: #ffff;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.btn-search-bar {
+    display: flex;
+    position: absolute;
+    bottom: 870px;
+    left: 800px;
+    border: none;
+    width: 530px;
+    height: 60px;
+}
+
+.home {
+    width: 120px;
+    height: 60px;
+    border: none;
+    text-align: center;
+    color: #ffff;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.about {
+    width: 120px;
+    height: 60px;
+    border: none;
+    color: #ffff;
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.blog {
+    width: 120px;
+    height: 60px;
+    border: none;
+    color: #ffff;
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+.contact {
+    width: 150px;
+    height: 60px;
+    border: none;
+    color: #ffff;
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
