@@ -1,0 +1,190 @@
+body {
+    background: rgb(73,35,180);
+    background: linear-gradient(112deg, rgba(73,35,180,1) , rgba(232,120,207,1) 100%);
+}
+
+.main-block {
+    display: inline-block;
+    position: relative;
+    /* border: 2px black solid;  */
+    left: 100px;
+    height: 700px;
+    width: 1600px;
+}
+
+.upgrade {
+    display: inline-block;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    top: 30px;
+    left: 50px;
+    font-weight: 700;
+    font-size: 72px;
+    color: #fff;
+}
+
+.description {
+    display: inline-block;
+    position: relative;
+    top: 180px;
+    right: 700px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: #fff;
+}
+
+.person {
+    display: inline-block;
+    position: relative;
+    left: 800px;
+    bottom: 500px;
+}
+
+.check {
+    display: inline-block;
+    position: relative; 
+    bottom: 100px;
+    top: -600px;
+    right: 750px;
+    bottom: 1000px; 
+    width: 200px;
+    height: 60px;
+    border-radius: 15px;
+    border: none;
+    background-color: #FF00C7;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+}
+
+.learn {
+    display: inline-block;
+    position: relative;
+    bottom: 600px; 
+    right: 740px;
+    width: 200px;
+    height: 60px;
+    border-radius: 15px;
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: 2px #fff solid;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+}
+
+.log-users {
+    z-index: 2;
+    display: inline-block;
+    position: relative;
+    /* border: 2px black solid; */
+    left: 1580px;
+    bottom: 80px;
+    width: 257px;
+    height: 40px;
+    padding: 10px;
+}
+
+.user-icon {
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    left: 5px;
+}
+
+.account {
+    display: inline-block;
+    position: relative;
+    left: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+}
+
+.shop-icon {
+    display: inline-block;
+    position: relative;
+    top: 5px;
+    left: 20px;
+}
+
+.cart {
+    display: inline-block;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+    left: 22px;
+}
+
+.taskbar {
+    z-index: 1;
+    display: inline-block;
+    position: relative;
+    /* border: 2px black solid; */
+    margin: 20px;
+    width: 1500px;
+    height: 40px;
+    padding: 10px;
+}
+
+.logo {
+    display: inline-block;
+    position: relative;
+}
+
+.courses {
+    display: inline-block;
+    position: relative;
+    left: 500px;
+    margin-right: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+}
+
+.pricing {
+    display: inline-block;
+    position: relative;
+    left: 500px;
+    margin-right: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+}
+
+.about {
+    display: inline-block;
+    position: relative;
+    left: 500px;
+    margin-right: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+}
+
+.contact {
+    display: inline-block;
+    position: relative;
+    left: 500px;
+    margin-right: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
+}
+
