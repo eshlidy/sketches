@@ -1,0 +1,130 @@
+.vector {
+    display: flex;
+    position: absolute;
+    left: -1%;
+    top: -1%;
+}
+
+
+.color {
+    top: -1%;
+    left: -1%;
+    display: flex;
+    position: absolute;
+    width: 1930px;
+    height: 980px;
+    background-color: #5062FF;
+}
+
+.slide1 {
+    display: flex;
+    position: absolute;
+    transform: rotate(-15deg);
+    right: -20.6%;
+    bottom: 1%;
+}
+
+.slide2 {
+    display: flex;
+    position: absolute;
+    transform: rotate(-15deg);
+    top: -5%;
+    right: 32%;
+}
+
+.slide3 {
+    display: flex;
+    position: absolute;
+    transform: rotate(-15deg);
+    right: 26.5%;
+    top: 37%;
+}
+
+.slide4 {
+    display: flex;
+    position: absolute;
+    transform: rotate(-15deg);
+    right: 20.8%;
+    top: 79%;
+}
+
+.slide5 {
+    display: flex;
+    position: absolute;
+    transform: rotate(-15deg);
+    right: -9.5%;
+    top: -27.5%;
+}
+
+.slide6 {
+    display: flex;
+    position: absolute;
+    transform: rotate(-15deg);
+    right: -15%;
+    top: 14.7%;
+}
+
+.capsule {
+    display: flex;
+    position: absolute;
+    top: 5%;
+    left: 24%;
+}
+
+.circle {
+    display: flex;
+    position: absolute;
+    top: 68%;
+    left: 6%;
+}
+
+.free {
+    top: 25%;
+    left: 10%;
+    font-size: 48px;
+    color: #FE6346;
+    font-family: 'Roboto Condensed', sans-serif;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    border-radius: 25px;
+    width: 200px;
+    height: 100px;
+    display: flex;
+    position: absolute;
+}
+
+.up {
+    display: flex;
+    position: absolute;
+    top: 15%;
+    left: 30%;
+}
+
+.down {
+    display: flex;
+    position: absolute;
+    top: 75%;
+    left: 10%;
+}
+
+.presentation {
+    display: flex;
+    position: absolute;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 56px;
+    color: #fff;
+    left: 10%;
+    top: 35%;
+}
+
+.example {
+    display: flex;
+    position: absolute;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #BCC3FF;
+    font-size: 32px;
+    left: 10%;
+    top: 50%;
+}
