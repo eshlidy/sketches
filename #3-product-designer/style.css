@@ -1,0 +1,95 @@
+.text {
+    font-family: 'Anton', sans-serif;
+    font-size: 84px;
+    font-weight: 400;
+}
+
+.light {
+    display: flex;
+    position: absolute;
+    top: 0%;
+}
+
+
+.tem {
+    color: #A87FF3;
+    left: 10%;
+    top: 8%;
+    position: absolute;
+    display: flex;
+}
+
+.plate {
+    color: #A87FF3;
+    left: 10%;
+    top: 26%;
+    position: absolute;
+    display: flex;
+}
+
+.web {
+    color: #A87FF3;
+    left: 10%;
+    top: 44%;
+    position: absolute;
+    display: flex;
+}
+
+.images {
+    display: flex;
+    width: 546px;
+    height: 390px;
+}
+
+.skills-black2 {
+    border-radius: 20px;
+    background-color: #0B0B0B;
+    transform: rotate(-40deg);
+    position: absolute;
+    top: 68%;
+    left: 27%;
+}
+
+.skills-white {
+    background-color: #dbdbdb;
+    border-radius: 20px;
+    transform: rotate(-40deg);
+    position: absolute;
+    top: -10%;
+    left: 40%;
+}
+
+.skills-black {
+    border-radius: 20px;
+    background-color: #0B0B0B;
+    transform: rotate(-40deg);
+    position: absolute;
+    top: 40%;
+    left: 80%;
+}
+
+.hero {
+    border-radius: 20px;
+    transform: rotate(-40deg);
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
+
+.about-black {
+    border-radius: 20px;
+    background-color: #0B0B0B;
+    transform: rotate(-40deg);
+    position: absolute;
+    top: 79%;
+    left: 57%;
+}
+
+.about-black2 {
+    border-radius: 20px;
+    background-color: #0B0B0B;
+    transform: rotate(-40deg);
+    position: absolute;
+    top: -8%;
+    right: -2%;
+}
