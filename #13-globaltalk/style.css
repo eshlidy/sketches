@@ -1,0 +1,246 @@
+html {
+    background-color: white;
+}
+
+.maintxt {
+    display: inline-block;
+    position: relative;
+    bottom: 370px;
+    left: 210px;
+    font-weight: 900;
+    font-size: 74px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ecourse {
+    display: inline-block;
+    position: relative;
+    bottom: 670px;
+    right: 440px;
+    color: #2B788B;
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sectxt {
+    display: inline-block;
+    position: relative;
+    right: 630px;
+    bottom: 290px;
+    color: #585858;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;   
+}
+
+.school-boy {
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    top: 110px;
+    left: 950px;
+}
+
+.bg-item2 {
+    display: inline-block;
+    position: relative;
+    z-index: 2;
+    top: 190px;
+    left: 460px;
+}
+
+.bg-item1 {
+    display: inline-block;
+    position: relative;
+    z-index: 0;
+    top: -50px;
+    left: 240px;
+}
+
+.learn {
+    display: inline-block;
+    position: relative;
+    border: none;
+    right: 900px;
+    bottom: 220px;
+    background-color: #C3DCE3;
+    color: #2B788B;
+    width: 180px;
+    height: 50px;
+    border-radius: 18px;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;  
+}
+
+.sign {
+    display: inline-block;
+    position: relative;
+    right: 1190px;
+    bottom: 220px;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+} 
+
+.hours {
+    display: inline-block;
+    position: relative;
+    /* border: 3px black solid; */
+    top: 40px;
+    right: 1290px;
+    width: 230px;
+    height: 90px;
+}
+
+.active {
+    display: inline-block;
+    position: relative;
+    /* border: 3px black solid; */
+    bottom: 220px;
+    left: 460px;
+    width: 250px;
+    height: 90px;
+}
+
+.hours-main {
+    display: inline-block;
+    position: relative; 
+    font-weight: 900;
+    bottom: 47px;
+    left: 10px;
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hours-sec {
+    display: inline-block;
+    position: relative; 
+    bottom: 110px;
+    left: 30px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    color: #585858;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hours-svg {
+    width: 50px;
+    height: 50px;
+    bottom: 40px;
+    left: 5px;
+    display: inline-block;
+    position: relative; 
+}
+
+.active-main {
+    display: inline-block;
+    position: relative; 
+    font-weight: 900;
+    bottom: 49px;
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.active-sec {
+    display: inline-block;
+    position: relative; 
+    text-align: center;
+    left: 50px;
+    bottom: 110px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #585858;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.active-svg {
+    width: 50px;
+    height: 50px;
+    bottom: 43px;
+    display: inline-block;
+    position: relative; 
+}
+
+.taskbar {
+    display: inline-block;
+    position: relative; 
+    bottom: 1070px;
+    right: 40px;
+    width: 1500px;
+    height: 60px;
+    /* border: 3px black solid; */
+}
+.logotxt {
+    display: inline-block;
+    position: relative; 
+    font-weight: 900;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.mainbar {
+    display: inline-block;
+    position: relative; 
+    color: #585858;
+    font-weight: 600;
+    font-size: 24px;
+    left: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.guidebar {
+    display: inline-block;
+    position: relative; 
+    color: #585858;
+    font-weight: 600;
+    left: 85px;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.statsbar {
+    display: inline-block;
+    position: relative; 
+    color: #585858;
+    font-weight: 600;
+    left: 110px;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.gamesbar {
+    display: inline-block;
+    position: relative; 
+    color: #585858;
+    left: 130px;
+    font-weight: 600;
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.learnbar {
+    display: inline-block;
+    position: relative;
+    border: none;
+    background-color: #C3DCE3;
+    color: #2B788B;
+    width: 180px;
+    height: 50px;
+    left: 800px;
+    border-radius: 18px;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;  
+}
+
+.signbar {
+    display: inline-block;
+    position: relative;
+    font-weight: 600;
+    left: 530px;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+} 
