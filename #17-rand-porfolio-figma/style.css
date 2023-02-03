@@ -1,0 +1,165 @@
+.start-bar {
+    z-index: 1;
+    display: inline-block;
+    position: relative;
+    width: 1850px;
+}
+
+.logo-txt {
+    display: inline-block;
+    position: relative;
+    font-family: 'Lexend', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    left: 60px;
+}
+
+.btn-home {
+    display: inline-block;
+    position: relative;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-family: 'Lexend', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    left: 500px;
+    margin-right: 100px;
+}
+
+.btn-skills {
+    display: inline-block;
+    position: relative;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-family: 'Lexend', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    left: 500px;
+    margin-right: 100px;
+}
+
+.btn-project {
+    display: inline-block;
+    position: relative;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    font-family: 'Lexend', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    left: 500px;
+}
+
+.twitter {
+    display: inline-block;
+    position: relative;
+    height: 60px;
+    width: 60px;
+    left: 600px;
+    top: 20px;
+    margin-right: 10px;
+}
+
+.skype {
+    display: inline-block;
+    position: relative;
+    height: 60px;
+    width: 60px;
+    left: 600px;
+    top: 20px;
+    margin-right: 10px;
+}
+
+.instagram {
+    display: inline-block;
+    position: relative;
+    height: 70px;
+    width: 70px;
+    left: 600px;
+    top: 25px;
+    margin-right: 10px;
+}
+
+.linkedin {
+    display: inline-block;
+    position: relative;
+    height: 60px;
+    width: 60px;
+    left: 600px;
+    top: 20px;
+    margin-right: 10px;
+}
+
+.btn-connect {
+    display: inline-block;
+    position: relative;
+    width: 170px;
+    height: 50px;
+    background-color: #D9D9D9;
+    font-family: 'Lexend', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    border-radius: 10px;
+    border: none;
+    left: 700px;
+}
+
+.main-block {
+    display: inline-block;
+    position: relative;
+    width: 1830px;
+}
+
+.welcome {
+    display: inline-block;
+    position: relative;
+    font-family: 'Lexend', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    bottom: 400px;
+    left: 60px;
+}
+
+.hi-am {
+    display: inline-block;
+    position: relative;
+    font-family: 'Lexend', sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    bottom: 250px;
+    right: 200px;
+}
+
+.person-main-img {
+    z-index: 0;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+    bottom: 130px;
+}
+
+.btn-connect2 {
+    display: inline-block;
+    position: relative;
+    width: 170px;
+    height: 50px;
+    background-color: #D9D9D9;
+    font-family: 'Lexend', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 10px;
+    border: none;
+    right: 1300px;
+    bottom: 160px;
+}
